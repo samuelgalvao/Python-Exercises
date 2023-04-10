@@ -1,0 +1,3 @@
+Pesquisadores da Universidade de Cornell, nos Estados Unidos, criaram um par de óculos inteligente que consegue reconhecer palavras que não foram ditas em voz alta. O dispositivo consegue ler os lábios do usuário para entender quando ele pede para pausar a reprodução de uma música, entrar com uma senha sem precisar tirar o celular do bolso, e muito mais.
+
+O sistema foi desenvolvido por Ruidong Zhang e foi feito com base em outro experimento da mesma equipe que criou um fone de ouvido sem fio similar aos óculos inteligentes, mas com evoluções significativas. Enquanto os dispositivos anteriores usavam câmeras para o reconhecimento labial, o novo modelo aposta em microfones com sonar.
